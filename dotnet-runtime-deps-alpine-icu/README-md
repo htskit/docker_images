@@ -1,0 +1,12 @@
+Docker Image dotnet-runtime-deps-alpine-icu
+
+- dotnet 6
+- icu full
+- libgdiplus
+- libmagic
+
+Typical usage:
+
+- self contained applications
+- ProtectionFilter
+
